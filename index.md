@@ -1,3 +1,6 @@
-#Weiss   
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-这是一个链接[Markdown 段落](https://weiss-123.github.io/Markdown%E6%AE%B5%E8%90%BD.html)
+layout: home
+---
